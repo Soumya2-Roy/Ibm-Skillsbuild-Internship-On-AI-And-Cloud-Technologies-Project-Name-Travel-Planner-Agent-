@@ -276,4 +276,4 @@
   <li>This project is licensed under the 📝 [MIT License]((https://opensource.org/license/mit) – open for educational, research, and demo purposes with proper attribution.</li>
 </ul>
 <h1>📸✨ Screenshots</h1
-![Travel Planner]()
+![Travel Planner](https://github.com/Soumya2-Roy/Ibm-Skillsbuild-Internship-On-AI-And-Cloud-Technologies-Project-Name-Travel-Planner-Agent-/blob/f0f01046a5201fefe317fa880a790f7d8ac8186f/Images/Screenshot%202025-08-01%20215545.png)

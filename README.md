@@ -197,3 +197,77 @@
   <li><b>Clean, intuitive design using IBM Carbon Design System.</b></li>
   <li><b>Includes visual itinerary builder, weather map overlays, and real-time notifications.</b></li>
 </ul>
+<h1>📦 Setup and Deployment (Non-Coding Workflow)</h1
+                                                  
+<h3>👤 For Non-Developers or Business Users</h3>
+
+<ul>
+  <li>
+    <details open>
+      <summary><b>Access IBM Cloud Lite</b></summary>
+      <p>Sign up at <a href="https://cloud.ibm.com/" target="_blank">cloud.ibm.com</a> and create the required services.</p>
+    </details>
+  </li>
+
+  <li>
+    <details>
+      <summary><b>Connect Watson Assistant</b></summary>
+      <ul>
+        <li>Use pre-built travel assistant intents or import a trained workspace (.json).</li>
+      </ul>
+    </details>
+  </li>
+
+  <li>
+    <details>
+      <summary><b>Configure Watsonx AI</b></summary>
+      <ul>
+        <li>Deploy a Granite model using Watsonx AI Studio for NLP and itinerary generation.</li>
+      </ul>
+    </details>
+  </li>
+
+  <li>
+    <details>
+      <summary><b>Connect APIs (Optional)</b></summary>
+      <ul>
+        <li>Enable integrations with weather, maps, and travel services through simple configuration panels or keys.</li>
+      </ul>
+    </details>
+  </li>
+
+  <li>
+    <details>
+      <summary><b>Run Agent via Web or App</b></summary>
+      <ul>
+        <li>Launch the agent using a no-code chatbot builder or UI dashboard connected to your Watson services.</li>
+      </ul>
+    </details>
+  </li>
+</ul>
+
+
+<h1>✅ Future Enhancements</h1>
+
+<li>🔊 Voice assistant integration (e.g., mobile voice input or Alexa).</li>
+
+<li>🌍 Multi-language support for international travelers.</li>
+
+<li>👥 Collaborative planning for group trips.</li>
+
+<li>🧾 Expense tracking & budget management.</li>
+
+<li>📶 Offline access to itineraries and maps.</li>
+
+<li>🧠 AI learning from user feedback to improve future suggestions.</li>
+
+<h1>📚 Learning & Reference Resources</h1>
+<ul>
+  <li><a href="https://cloud.ibm.com" target="_blank">IBM Cloud Lite</a></li>
+  <li><a href="https://www.ibm.com/products/watsonx" target="_blank">IBM Watsonx AI Studio</a></li>
+  <li><a href="https://www.ibm.com/products/granite" target="_blank">IBM Granite Foundation Models</a></li>
+  <li><a href="https://cloud.ibm.com/docs/watson-assistant" target="_blank">Watson Assistant Documentation</a></li>
+  <li><a href="https://www.ibm.com/weather" target="_blank">The Weather Company Data</a></li>
+  <li><a href="https://developers.google.com/maps" target="_blank">Google Maps Platform</a></li>
+  <li><a href="https://partners.skyscanner.net" target="_blank">Skyscanner for Business</a></li>
+</ul>

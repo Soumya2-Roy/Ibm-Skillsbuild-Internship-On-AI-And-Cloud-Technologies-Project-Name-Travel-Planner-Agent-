@@ -153,3 +153,47 @@
     <li><b>Retrieval Augmented Generation (RAG)</b> – Enhances itinerary generation by combining dynamic search with large language model generation.</li>
   </ul>
 </ul>
+<h1>🚀 How It Works – Workflow Summary</h1>
+
+<ul>
+  <li><b>User Input:</b> The user specifies trip details such as destination type, interests, budget, travel dates, and duration.</li>
+
+  <li><b>Granite Model Processing:</b> IBM Granite Foundation Models analyze the inputs to extract user preferences, constraints, and intent. This enables intelligent interpretation of natural language queries.</li>
+
+  <li><b>Recommendation Engine:</b>
+    <ul>
+      <li>Generates personalized suggestions for destinations, transportation, and accommodation.</li>
+      <li>Incorporates external data sources like weather forecasts and location data to enhance recommendations.</li>
+    </ul>
+  </li>
+
+  <li><b>Itinerary Builder:</b>
+    <ul>
+      <li>Creates a detailed, day-wise travel plan including must-see landmarks, local experiences, transit time, and rest periods.</li>
+    </ul>
+  </li>
+
+  <li><b>Real-Time Assistant:</b>
+    <ul>
+      <li>Monitors for live updates such as delays, weather disruptions, and local events.</li>
+      <li>Provides dynamic rescheduling options and personalized notifications during the trip.</li>
+    </ul>
+  </li>
+
+  <li><b>Booking Management:</b>
+    <ul>
+      <li>Simulates or facilitates bookings for flights, hotels, and experiences.</li>
+      <li>Stores and manages booking confirmations securely, with notifications for changes or cancellations.</li>
+    </ul>
+  </li>
+</ul>
+
+
+<h1><b>🎨 User Interface / Experience (UI/UX)</b></h1
+                                                  
+<ul>
+  <li><b>Can be implemented via a web dashboard or mobile app.</b></li>
+  <li><b>Features a chat-based interface using IBM Watson Assistant.</b></li>
+  <li><b>Clean, intuitive design using IBM Carbon Design System.</b></li>
+  <li><b>Includes visual itinerary builder, weather map overlays, and real-time notifications.</b></li>
+</ul>

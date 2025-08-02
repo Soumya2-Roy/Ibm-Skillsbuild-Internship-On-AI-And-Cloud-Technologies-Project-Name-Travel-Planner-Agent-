@@ -107,4 +107,49 @@
     </ul>
   </li>
 </ul>
+<h1><b>
+💻 Technologies Used
+</b></h1>
+<h2>🚀 Use of IBM Services</h2>
+<p>Use of IBM services is mandatory as per the challenge guidelines.</p>
 
+<h4>🔧 Core Technologies</h4>
+
+<ul>
+  <li><b>IBM Cloud Lite Services (Mandatory)</b></li>
+  <ul>
+    <li><b>IBM Watson Assistant</b> – Enables intelligent dialogue and smooth user interactions through chat.</li>
+    <li><b>IBM Cloud Functions</b> – Provides serverless backend logic for handling requests and orchestrating services.</li>
+    <li><b>IBM Cloudant</b> – NoSQL database for storing user preferences, itinerary data, and travel history.</li>
+    <li><b>IBM Weather Company Data</b> – Offers real-time weather information to enhance travel planning.</li>
+  </ul>
+
+  <li><b>🧠 IBM Granite Foundation Model Integration</b></li>
+  <ul>
+    <li><b>IBM Granite (Foundation Models)</b> – Powers advanced Natural Language Processing (NLP) to:
+      <ul>
+        <li>Understand user preferences, constraints, and natural language queries.</li>
+        <li>Generate personalized itineraries and recommendations using <b>Retrieval Augmented Generation (RAG)</b> techniques.</li>
+      </ul>
+    </li>
+  </ul>
+
+  <li><b>🧪 IBM AI and Development Tools</b></li>
+  <ul>
+    <li><b>IBM Watsonx AI Studio</b> – For building, training, and evaluating AI workflows with Granite models.</li>
+    <li><b>IBM Watsonx AI Runtime</b> – Executes Granite-powered AI models and services in production.</li>
+    <li><b>IBM Cloud Agent Lab</b> – Enables experimentation and testing of AI agent capabilities in the cloud environment.</li>
+  </ul>
+
+  <li><b>🧭 External APIs (Optional, but Recommended)</b></li>
+  <ul>
+    <li><b>Google Maps API</b> – Used for location lookup, route planning, and discovering nearby attractions or services.</li>
+    <li><b>Booking.com / Skyscanner APIs</b> – For accessing live transport and accommodation options based on travel plans.</li>
+  </ul>
+
+  <li><b>🧠 Core AI Techniques</b></li>
+  <ul>
+    <li><b>Natural Language Processing (NLP)</b> – To interpret, process, and respond to user input in natural language.</li>
+    <li><b>Retrieval Augmented Generation (RAG)</b> – Enhances itinerary generation by combining dynamic search with large language model generation.</li>
+  </ul>
+</ul>

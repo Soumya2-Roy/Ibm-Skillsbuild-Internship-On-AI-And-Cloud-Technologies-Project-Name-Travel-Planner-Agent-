@@ -273,5 +273,5 @@
 </ul>
 <h1>📄 License</h1>
 <ul>
-  <li>This project is licensed under the <b>📝 [MIT License](https://opensource.org/license/mit)</b> – open for educational, research, and demo purposes with proper attribution.</li>
+  <li>This project is licensed under the 📝 [MIT License](https://opensource.org/license/mit) – open for educational, research, and demo purposes with proper attribution.</li>
 </ul>

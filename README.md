@@ -271,3 +271,7 @@
   <li><a href="https://developers.google.com/maps" target="_blank">Google Maps Platform</a></li>
   <li><a href="https://partners.skyscanner.net" target="_blank">Skyscanner for Business</a></li>
 </ul>
+<h1>📄 License</h1>
+<ul>
+  <li>This project is licensed under the <b>📝 [MIT License](https://opensource.org/license/mit)</b> – open for educational, research, and demo purposes with proper attribution.</li>
+</ul>

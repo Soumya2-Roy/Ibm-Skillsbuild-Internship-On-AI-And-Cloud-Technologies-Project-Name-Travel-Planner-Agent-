@@ -275,3 +275,5 @@
 <ul>
   <li>This project is licensed under the 📝 [MIT License]((https://opensource.org/license/mit) – open for educational, research, and demo purposes with proper attribution.</li>
 </ul>
+<h1>📸✨ Screenshots</h1
+![Travel Planner]()
